@@ -1,0 +1,66 @@
+http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly
+https://github.com/iphkwan/leetcode
+http://www.douban.com/note/332117149/
+http://jane4532.blogspot.com/
+http://blog.csdn.net/liweisnake/article/details/8470285
+http://blog.csdn.net/ns_code/article/details/17465497
+http://blog.csdn.net/zhangxs_3/article/details/8494675
+http://stackoverflow.com/questions/541487/implements-runnable-vs-extends-thread
+http://www.cricode.com/3282.html
+http://blog.csdn.net/hikvision_java_gyh/article/details/8964155
+http://ibruce.info/2013/12/19/how-to-stop-a-java-thread/
+http://javarevisited.blogspot.sg/2011/11/collection-interview-questions-answers.html
+
+
+
+
+http://www.slideshare.net/mysqlops/ss-10569319
+
+爬虫
+http://developer.51cto.com/art/201103/248141.htm
+http://www.cricode.com/3622.html
+http://www.mianwww.com/html/2014/05/21105.html
+http://javaee.h.baike.com/article-275306.html
+
+
+算法
+http://www.cricode.com/tag/googleinterview
+
+性能
+http://www.williamlong.info/archives/776.html
+
+为什么要创建索引
+　　创建索引可以大大提高系统的性能。
+　　　　第一，通过创建唯一性索引，可以保证数据库表中每一行数据的唯一性。
+　　　　第二，可以大大加快数据的检索速度，这也是创建索引的最主要的原因。
+　　　　第三，可以加速表和表之间的连接，特别是在实现数据的参考完整性方面特别有意义。
+　　　　第四，在使用分组和排序子句进行数据检索时，同样可以显著减少查询中分组和排序的时间。
+　　　　第五，通过使用索引，可以在查询的过程中，使用优化隐藏器，提高系统的性能。
+　　也许会有人要问：增加索引有如此多的优点，为什么不对表中的每一个列创建一个索引呢？因为，增加索引也有许多不利的方面。
+　　　　第一，创建索引和维护索引要耗费时间，这种时间随着数据量的增加而增加。
+　　　　第二，索引需要占物理空间，除了数据表占数据空间之外，每一个索引还要占一定的物理空间，如果要建立聚簇索引，那么需要的空间就会更大。
+　　　　第三，当对表中的数据进行增加、删除和修改的时候，索引也要动态的维护，这样就降低了数据的维护速度。
+
+
+数据库
+http://www.cricode.com/786.html
+http://www.cricode.com/774.html
+http://www.careercup.com/question?id=17330675
+http://bbs.csdn.net/topics/390495190
+http://www.articlesontesting.com/2014/05/tips-for-database-query-optimization.html
+
+hibernate
+http://www.2cto.com/kf/201212/178604.html
+http://www.oschina.net/translate/10-hibernate-interview-questions-answers-java-j2ee-senior
+
+
+部署
+http://www.cnblogs.com/dennisit/p/3370220.html
+
+
+http://www.javaforecast4u.com/2012/05/how-many-ways-to-create-object-in-java.html
+http://surguy.net/articles/communication-across-classloaders.xml
+http://www.oracle.com/technetwork/articles/java/singleton-1577166.html
+
+httpSession生命周期
+http://blog.sina.com.cn/s/blog_4b6f8d150100ghvs.html
